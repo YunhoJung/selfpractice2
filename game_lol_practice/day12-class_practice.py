@@ -1,7 +1,7 @@
 
 # from functions.shop import buy_item, title as shop_title
 #from friends.chat import send_message
-from hw2 import Customer
+from day12-class_sample import Customer
 
 title = 'Main Module'
 def turn_on():
